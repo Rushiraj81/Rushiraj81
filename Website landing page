@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Internship Opportunity</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background-color: #4CAF50;
+            color: white;
+            padding: 1rem;
+            text-align: center;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+        }
+        .main-content {
+            margin: 2rem 0;
+        }
+        .main-content h2 {
+            color: #4CAF50;
+        }
+        .apply-button {
+            display: block;
+            width: 200px;
+            height: 50px;
+            margin: 2rem auto;
+            background-color: #4CAF50;
+            color: white;
+            text-align: center;
+            line-height: 50px;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 1rem;
+            position: absolute;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Join Our Team</h1>
+        <p>Apply for Our Internship Program</p>
+    </header>
+    <div class="container">
+        <div class="main-content">
+            <h2>About the Internship</h2>
+            <p>Our internship program is designed to give students real-world experience in their field of study. You will work closely with experienced professionals and have the opportunity to contribute to meaningful projects.</p>
+            
+            <h2>Requirements</h2>
+            <ul>
+                <li>Currently enrolled in a college or university</li>
+                <li>Strong academic performance</li>
+                <li>Passion for learning and growth</li>
+                <li>Excellent communication skills</li>
+            </ul>
+            
+            <h2>Benefits</h2>
+            <ul>
+                <li>Hands-on experience</li>
+                <li>Mentorship from industry experts</li>
+                <li>Networking opportunities</li>
+                <li>Potential for a full-time position</li>
+            </ul>
+            
+            <a href="apply.html" class="apply-button">Apply Now</a>
+        </div>
+    </div>
+    <footer>
+        <p>&copy; 2024 Your Company. All Rights Reserved.</p>
+    </footer>
+</body>
+</html>
